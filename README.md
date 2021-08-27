@@ -21,3 +21,4 @@
 </a>
 
 
+  ![Snake animation](https://github.com/robertourias/robertourias/blob/output/github-contribution-grid-snake.svg)
