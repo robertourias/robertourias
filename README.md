@@ -1,9 +1,13 @@
 ## Oiii! Eu sou o Roberto Nicoletti
 
 <div>
-  <a href="https://github.com/robertourias">
-  
+  <a href="https://github.com/robertourias">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertourias&layout=compact&langs_count=7&theme=dracula"/>
+  <img
+      align="left"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=robertourias&theme=dark&hide_border=false"
+      alt="Github Stats"
+    />
 </div>
   
 ##
